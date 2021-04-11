@@ -1,6 +1,6 @@
 # Vue Custom v-model Example
 
-An example code for making a Web Component input v-model work with Vue. Please refer to [this article](https://muhimasri.com/blogs/how-to-create-custom-v-model-for-web-component-input-element/) for a thorough explanation.
+An example code for making a Web Component input v-model work with Vue. Please refer to [this article](https://muhimasri.com/blogs/how-to-create-custom-v-model-for-web-components/) for a thorough explanation.
 
 ## Project setup
 ```
